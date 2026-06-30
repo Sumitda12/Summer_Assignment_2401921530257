@@ -1,7 +1,7 @@
 # Summer Assignment
 
-**Name:** [Your Name]
-**Roll Number:** 2401921530257
+Name: Sumit Yadav
+Roll Number: 2401921530257
 
 ## About
 This repository contains my solutions for the Summer DSA & OOPS Assignment.
